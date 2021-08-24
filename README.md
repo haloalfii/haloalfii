@@ -5,6 +5,8 @@ awesome web app.
 
 - 🌱 I’m currently learning Laravel
 
+Find me here https://twitter.com/haloalfii
+
 <!--
 **haloalfii/haloalfii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
