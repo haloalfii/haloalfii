@@ -1,6 +1,9 @@
 ### Hi there 👋, I'am Alfian!
+<hr>
 I'm a Junior website developer, passionate about developing an
-awesome web app
+awesome web app.
+
+- 🌱 I’m currently learning Laravel
 
 <!--
 **haloalfii/haloalfii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
