@@ -3,8 +3,8 @@
 I'm a Junior website developer, passionate about developing an
 awesome web app.
 
-- 🌱 I’m currently learning Laravel
-- ✨ in Love with PHP Native
+- 🌱 I’m currently Learning JavaScript
+- ✨ VueJs Dev
 
 Find me here https://twitter.com/haloalfii
 
