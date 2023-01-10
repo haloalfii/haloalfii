@@ -1,10 +1,10 @@
 ### Hi there 👋, I'am Alfian!
 <hr>
-I'm a Junior website developer, passionate about developing an
+I'm a Full Stack developer, passionate about developing an
 awesome web app.
 
-- 🌱 I’m currently Learning JavaScript
-- ✨ VueJs Dev
+- 🌱 I’m currently (always) Learning JavaScript
+
 
 Find me here https://twitter.com/haloalfii
 
