@@ -4,9 +4,10 @@ I'm a Full Stack developer, passionate about developing an
 awesome web app.
 
 - 🌱 I’m currently (always) Learning JavaScript
+- 💬 Ask me about anything
 
 
-Find me here https://twitter.com/haloalfii
+Find me here https://www.linkedin.com/in/haloalfii/
 
 <!--
 **haloalfii/haloalfii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
