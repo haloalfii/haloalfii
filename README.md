@@ -1,4 +1,4 @@
-### Hi there 👋, I'am Alfian!
+### Hi there 👋🏻, I'am Alfian!
 <hr>
 I'm a Full Stack developer, passionate about developing an
 awesome web app.
