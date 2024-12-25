@@ -1,25 +1,22 @@
-### Hi there 👋🏻, I'am Alfian!
-<hr>
-I'm a Full Stack developer, passionate about developing an
-awesome web app.
+# Hi there, I'm Halo Alfii 👋
 
-- 🌱 I’m currently (always) Learning JavaScript
-- 💬 Ask me about anything
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in creating innovative solutions and exploring new technologies.
 
+## 🛠️ Technologies & Tools
 
-Find me here https://www.linkedin.com/in/haloalfii/
+- **Languages:** JavaScript, PHP
+- **Frameworks:** React, Node.js, Vue, Laravel
 
-<!--
-**haloalfii/haloalfii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Currently Working On
 
-Here are some ideas to get you started:
+- [Dunia Coding](https://duniacoding.id)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Laravel
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+
+- **Email:** haloalfii@gmail.com
+- **LinkedIn:** [Alfian Luthfi](https://www.linkedin.com/in/haloalfii)
+- **Twitter:** [@haloalfii](https://twitter.com/haloalfii)
+
+---
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
