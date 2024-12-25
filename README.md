@@ -1,4 +1,4 @@
-# Hi there, I'm Halo Alfii 👋
+# Hi there, I'm Alfian Luthfi 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in creating innovative solutions and exploring new technologies.
 
