@@ -15,7 +15,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 - **Email:** haloalfii@gmail.com
 - **LinkedIn:** [Alfian Luthfi](https://www.linkedin.com/in/haloalfii)
-- **Twitter:** [@haloalfii](https://twitter.com/haloalfii)
 
 ---
 
