@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, PHP
+- **Languages:** JavaScript, PHP, GO
 - **Frameworks:** Next, Node.js, Vue, Laravel
 
 ## 🔭 Currently Working On
